@@ -1,3 +1,6 @@
 [submodule "client"]
 	path = client
 	url = https://github.com/vjz3qz/CARSAC-client.git
+[submodule "server"]
+	path = server
+	url = https://github.com/vjz3qz/CARSAC-server.git
